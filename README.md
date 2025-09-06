@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Developer
+I am a Student
 
 
 # 💻 Tech Stack:
